@@ -14,7 +14,7 @@ import ImageAnalyzer from './features/Free/ImageAnalyzer';
 import EssayWriter from './features/Premium/EssayWriter';
 import ImageEditor from './features/Premium/ImageEditor';
 import TanyaWeb from './features/Premium/TanyaWeb';
-import PersonaChat from './features/Premium/PersonaChat';
+import PersonaChat from './PersonaChat';
 import GitHubAssistant from './features/Premium/GitHubAssistant';
 
 
