@@ -1,5 +1,4 @@
-
-import type { Feature } from './types';
+import type { Feature } from './utils/types';
 import TemanCurhat from './features/Free/TemanCurhat';
 import AiChat from './features/Free/AiChat';
 import TextToSpeech from './features/Free/TextToSpeech';

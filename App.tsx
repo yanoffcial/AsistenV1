@@ -2,7 +2,7 @@ import React, { useState, useCallback, useEffect } from 'react';
 import Sidebar from './components/Sidebar';
 import AccessCodeModal from './components/AccessCodeModal';
 import { FEATURES, ACCESS_CODES } from './constants';
-import type { Feature } from './types';
+import type { Feature } from './utils/types';
 import { SparklesIcon } from './components/icons/FeatureIcons';
 
 const WelcomeScreen: React.FC = () => (

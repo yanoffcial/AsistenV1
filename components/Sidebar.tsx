@@ -1,5 +1,5 @@
 import React from 'react';
-import type { Feature } from '../types';
+import type { Feature } from '../utils/types';
 import { LockClosedIcon, SparklesIcon } from './icons/FeatureIcons';
 
 interface SidebarProps {
